@@ -9,4 +9,4 @@ There was no good flash framework that using Mobile GPU3D on that time, so I cre
 RIP Flash 1996-2020
 
 Doc
-[http://htmlpreview.github.io/?https://github.com/area80/uikit/blob/master/docs/index.html]: http://htmlpreview.github.io/?https://github.com/area80/uikit/blob/master/docs/index.html
+http://htmlpreview.github.io/?https://github.com/area80/uikit/blob/master/docs/index.html
